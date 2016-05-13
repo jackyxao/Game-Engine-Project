@@ -1,0 +1,31 @@
+[Map]
+21
+18
+xxixxixxixaxixxixxixx
+x___________________x
+x__YYYYYYYYYYYYYYY__x
+i__YYYYYYYYYYYYYYY__i
+x__YYYYYYYYYYYYYYY__x
+x__YYYYYYYYYYYYYYY__x
+i__YYYYYYYYYYYYYYY__i
+x__YYYYYYYYYYYYYYY__x
+x__YYYYYYYYYYYYYYY__x
+i_________Y_________i
+xXXXXXXXX_Y_XXXXXXXXx
+        x_Y_x
+        i_Y_i
+        x_Y_x
+        x_Y_x
+xxixxixxi_Y_ixxixxixx
+O_________Y_________O
+xxixxixxixaxixxixxixx
+[Key]
+O = Door Tile 1.png []
+x = Wall Tile 1.png []
+i = Wall 1 Torch Tile.png []
+X = Stone Wall Tile.png []
+Y = Grey brick wall.png []
+a = Window Tile 2.png []
+_ = Wooden Floor Tile.png
+[Music]
+Main theme for game.mp3

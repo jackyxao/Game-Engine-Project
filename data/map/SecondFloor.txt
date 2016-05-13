@@ -1,0 +1,51 @@
+[Map2]
+53
+35   
+              CCCCCC            CCCCCC              
+              CCCCCC            CCCCCC              
+              CCCCCC            CCCCCC              
+           HHHHHHHHH            HHHHHHHHH           
+           HHHHHHHHH            HHHHHHHHH           
+           HHHHHHHHH            HHHHHHHHH           
+           HHHHHHHHH            HHHHHHHHH           
+           HHHHHHHHH            HHHHHHHHH           
+           HHHHHHHHH            HHHHHHHHH           
+           HHHHHHHHH            HHHHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+XHHHHHHHHHHHHHHHHH                HHHHHHHHHHHHHHHHHX
+HHHHHHHHHHHHHHHHHH                HHHHHHHHHHHHHHHHHH
+YHHHHHHHHHHHHHHHHH                HHHHHHHHHHHHHHHHHY
+HHHHHHHHHHHHHHHHHH                HHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHH                HHHHHHHHHHHHHHHHHH
+MMMMMMH    MMMMMMM                MMMMMMM    HMMMMMM
+MMMMMMH    MMMMMMM                MMMMMMM    HMMMMMM
+MMMMMMH    MMMMMMM                MMMMMMM    HMMMMMM
+MMMMMMH    MMMMMMM                MMMMMMM    HMMMMMM
+MMMMMMH    MMMMMMM                MMMMMMM    HMMMMMM
+MMMMMMH    MMMMMMM                MMMMMMM    HMMMMMM
+WWWWWWH    MMMMMMM                MMMMMMM    HWWWWWW
+WWWWWWH    MMMMMMM                MMMMMMM    HWWWWWW
+[Key]
+A = Sushi Tile 1.png
+B = Sushi Tile 2.png 
+C = red.png
+H = Wooden Floor Tile.png
+L = Wooden Floor Hole Tile.png
+M = green.png 
+O = Kitchen Floor Tile.png
+Q = Purple carpet.png 
+R = Purple carpet edge.png
+W = pink.png
+X = Stairs Up Tile.png
+Y = blue.png
+[Music]
+Main theme for game.mp3

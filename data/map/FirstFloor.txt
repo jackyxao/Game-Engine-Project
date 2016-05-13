@@ -1,0 +1,57 @@
+[Map1]
+52
+43
+              HHHHHH            HHHHHH              
+              HHHHHH            HHHHHH              
+              HHHHHH    BABA    HHHHHH              
+              HHHHHH    ABAB    HHHHHH              
+              HHHHHH    BABA    HHHHHH              
+              HHHHHH    ABAB    HHHHHH              
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH           
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH           
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH           
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH           
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH           
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH           
+           HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+           HHHHHHH                HHHHHHH           
+HHHHHHHHHHHHHHHHHH                HHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHH                HHHHHHHHHHHHHHHHHH
+XHHHHHHHHHHHHHHHHH                HHHHHHHHHHHHHHHHHX
+HHHHHHHHHHHHHHHHHH                HHHHHHHHHHHHHHHHHH
+HHHHHHHHHHHHHHHHHH                HHHHHHHHHHHHHHHHHH
+RRRRRRR    HHHHHHH                HHHHHHH    OOOOOOO
+RQQQQQR    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH    OOOOOOO
+RQQQQQR    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH    OOOOOOO
+RQQQQQR    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH    OOOOOOO
+RQQQQQR    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH    OOOOOOO
+RQQQQQR    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH    OOOOOOO
+RQQQQQR    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH    OOOOOOO
+RRRRRRR    HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH    OOOOOOO
+                       HHHHHH                       
+                       HHHHHH                       
+                       HHHHHH                       
+                       HHLLHH                       
+                       HHHHHH                       
+                       HHHHHH                       
+                       HHHHHH                       
+[Key]
+A = Sushi Tile 1.png
+B = Sushi Tile 2.png 
+H = Wooden Floor Tile.png
+L = Wooden Floor Hole Tile.png 
+O = Kitchen Floor Tile.png
+Q = Purple carpet.png 
+R = Purple carpet edge.png
+X = Stairs Up Tile.png
+[Music]
+Main theme for game.mp3

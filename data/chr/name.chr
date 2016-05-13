@@ -1,0 +1,5 @@
+name = Colour
+imgNorth = red.png
+imgEast = pink.png
+imgSouth = green.png
+imgWest = blue.png

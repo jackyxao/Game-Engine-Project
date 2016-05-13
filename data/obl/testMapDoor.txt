@@ -1,0 +1,6 @@
+p
+[path]testMap2.map
+[image0]Door Tile 1.png
+[image1]Door Tile 1.png
+[state]1
+[condition]1
