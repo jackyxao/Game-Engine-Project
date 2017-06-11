@@ -28,9 +28,9 @@ class Objects:
         #Grid Set-up
         self.map = mapRef
         self.grid = []
-        for x in xrange(self.map.size[0] + 1):
+        for x in range(self.map.size[0] + 1):
             temp = []
-            for y in xrange(self.map.size[1] + 1):
+            for y in range(self.map.size[1] + 1):
                 temp.append(None)
             self.grid.append(temp)
             
@@ -61,7 +61,7 @@ class Objects:
         # added +1 to across and down to accomendate for the map borders
         # Update 24-05-2015 by Jacky Xao
         # removed +1 to across and down, for coord system fix
-        for across in xrange(len(self.grid)):
-            for down in xrange(len(self.grid[across])):
+        for across in range(len(self.grid)):
+            for down in range(len(self.grid[across])):
                 if self.grid[across][down] != None:
                     self.grid[across][down].draw(destination,(across)*25+x,(down)*25+y)

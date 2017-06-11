@@ -68,7 +68,7 @@ class engine:
             c = self.char.coord[0] * 25 + self.x
         else:
             c = self.char.coord[1] * 25 + self.y
-        print self.char.coord[1]
+        print (self.char.coord[1])
         return c
     
     def check_movement(self, event):

@@ -1,5 +1,5 @@
-from interactableObject import InteractableObject
-from tile import Tile
+from lib.interactableObject import InteractableObject
+from lib.tile import Tile
 
 #Pathway Class
 #Author: Jacky Xao

@@ -1,4 +1,4 @@
-from tile import Tile
+from lib.tile import Tile
 import pygame
 
 class Map (object):
@@ -70,7 +70,7 @@ class Map (object):
         try:
             inputData = open(fileName, 'r').read()
         except IOError as e:
-            print "I/O error({0}): {1}".format(e.errno, e.strerror)
+            print ("I/O error({0}): {1}".format(e.errno, e.strerror))
             pygame.quit()
             raise Exception
 
@@ -109,13 +109,13 @@ class Map (object):
 
         #sets up the map
         self.map = []
-        for x in xrange(self.size[0] + 2):
+        for x in range(self.size[0] + 2):
             column = []
-            for y in xrange(self.size[1] + 2):
+            for y in range(self.size[1] + 2):
                 column.append(Tile())
             self.map.append(column)
 
-        for down in xrange(self.size[1]):
+        for down in range(self.size[1]):
             across = 1
             for char in self.template[down]:
                 if char != ' ':
@@ -136,8 +136,8 @@ class Map (object):
         # destination: The destination to draw to
         # x,y: the top left coordinates to draw
 
-        for across in xrange(0, self.size[0] + 2):
-            for down in xrange(0, self.size[1] + 2):
+        for across in range(0, self.size[0] + 2):
+            for down in range(0, self.size[1] + 2):
                 #add if statement for -ve x,y coords, so if -ve, don't draw
                 #use and
                 self.map[across][down].draw(destination, (x + (across * 25)), (y + (down * 25)))

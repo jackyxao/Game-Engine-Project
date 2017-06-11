@@ -49,11 +49,11 @@ class Character(object):
             self.layout = layout
 
         except IOError as e:
-            print "I/O error({0}): {1}".format(e.errno, e.strerror)
+            print ("I/O error({0}): {1}".format(e.errno, e.strerror))
             pygame.quit()
             raise Exception
         except NameError as e:
-            print "Name error:", e.strerror
+            print ("Name error:", e.strerror)
             pygame.quit()
             raise Exception
     def draw(self, x, y):
@@ -196,13 +196,13 @@ class Character(object):
             inputData = open(self.charFile, 'r').read()
             temp = inputData.split("\n")
             temp = temp[1:]
-            for i in xrange(4):
+            for i in range(4):
                 line = temp[i]
                 filename = line[line.find("=") + 1:].strip()
                 image = pygame.image.load("artwork/" + str(filename))
                 self.images.append(image)
         except:
-            print "error in initImages"
+            print ("error in initImages")
             pygame.quit()
             raise Exception
 
